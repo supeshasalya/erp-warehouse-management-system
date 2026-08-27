@@ -319,35 +319,35 @@ The application follows a full-stack client-server architecture:
 
 ### Login
 
-![Login](./screenshots/login.png)
+![Login](./Screenshots/login.png)
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Screenshots/dashboard.png)
 
 ### Current Stock
 
-![Current Stock](./screenshots/current-stock.png)
+![Current Stock](./Screenshots/current-stock.png)
 
 ### Bin Card / Stock Card
 
-![Bin Card](./screenshots/bin-card.png)
+![Bin Card](./Screenshots/bin-card.png)
 
 ### Goods Received Note (GRN)
 
-![GRN](./screenshots/grn.png)
+![GRN](./Screenshots/grn.png)
 
 ### Loading Issue Note
 
-![Loading Issue Note](./screenshots/loading-issue-note.png)
+![Loading Issue Note](./Screenshots/loading-issue-note.png)
 
 ### Product Selection & Stock Validation
 
-![Stock Validation](./screenshots/stock-validation.png)
+![Stock Validation](./Screenshots/stock-validation.png)
 
 ### Expired Store
 
-![Expired Store](./screenshots/expired-store.png)
+![Expired Store](./Screenshots/expired-store.png)
 
 ## Project Structure
 
